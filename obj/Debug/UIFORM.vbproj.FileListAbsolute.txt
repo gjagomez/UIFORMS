@@ -1,0 +1,10 @@
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\bin\Debug\UIFORM.pdb
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\bin\Debug\UIFORM.xml
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\obj\Debug\UIFORM.vbprojResolveAssemblyReference.cache
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\obj\Debug\UIFORM.Resources.resources
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\obj\Debug\UIFORM.vbproj.GenerateResource.Cache
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\obj\Debug\UIFORM.xml
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\obj\Debug\UIFORM.pdb
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\bin\Debug\UIFORM.dll.config
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\bin\Debug\UIFORM.dll
+c:\users\jagomez\documents\visual studio 2015\Projects\UIFORM\UIFORM\obj\Debug\UIFORM.dll
